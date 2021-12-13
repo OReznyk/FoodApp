@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Bright theme -> avocado -->
+    <color name="primaryColor">#bde098</color>
+    <color name="primaryLightColor">#f0ffc9</color>
+    <color name="primaryDarkColor">#8cae69</color>
+    <color name="secondaryColor">#ffdc75</color>
+    <color name="secondaryLightColor">#ffffa6</color>
+    <color name="secondaryDarkColor">#c9ab46</color>
+    <color name="primaryTextColor">#000000</color>
+    <color name="secondaryTextColor">#000000</color>
+
+    <!-- Dark theme -> berries -->
+    <color name="darkPrimaryColor">#2c0060</color>
+    <color name="darkPrimaryLightColor">#5c2e8e</color>
+    <color name="darkPrimaryDarkColor">#100036</color>
+    <color name="darkSecondaryColor">#822740</color>
+    <color name="darkSecondaryLightColor">#b5556b</color>
+    <color name="darkSecondaryDarkColor">#51001a</color>
+    <color name="darkPrimaryTextColor">#ffffff</color>
+    <color name="darkSecondaryTextColor">#ffffff</color>
+
+</resources>
